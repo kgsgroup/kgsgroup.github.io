@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kgsgroup.github.io/sitemap.xml
